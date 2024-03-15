@@ -80,3 +80,9 @@ body {
     .aba-conteudo{
     display: none;
     }
+
+    .aba-conteudo-titulo-principal{
+        font-size: 28px;
+        color: var(--verde);
+        text-transform: uppercase;
+    }
